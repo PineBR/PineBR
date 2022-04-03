@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PineBR
+- 👋 Hi, I’m Renan Pinheiro
 - 🌱 I’m currently learning about being a full-stack developer
 - 📫 How to reach me pine.fullstack@gmail.com
 
